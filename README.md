@@ -1,11 +1,22 @@
-Hi, my name is Anay Krishna,
-I'm a highschooler and aspiring aerodynamic engineer exploring automobile simulations and web-app development
+# 👋 Hi, I'm Anay Krishna
 
-🏎️  I am currently working on: OptiCircuit, an AI-based simulation driving tool that enhances your driving skills
-💻  Interested in: Cars, Computer Science, and Aerodynamic Engineering
-🤝 Open to: Collborations, Internships, Interest-related events
+🎓 I'm a high schooler and aspiring **aerodynamic engineer**, currently exploring **automobile simulations** and **web app development**.
 
-These are some my tools ⬇️
+## 🏁 Currently Working On:
+**OptiCircuit** – an AI-based simulation driving tool designed to enhance driving skills and racing lines.
+
+## 💻 Interests:
+- Cars & Motorsports  
+- Computer Science  
+- Aerodynamic Engineering  
+
+## 🤝 Open To:
+- Collaborations  
+- Internships  
+- Interest-related events & hackathons  
+
+## 🛠️ Tools & Technologies:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs)](https://skillicons.dev)
 
-Find more about me on my website
+## 🌐 Learn More About Me:
+Check out my website 👉 [your-website-link-here](#)
