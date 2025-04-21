@@ -19,4 +19,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs)](https://skillicons.dev)
 
 ## 🌐 Learn More About Me:
-Check out my website 👉 [your-website-link-here](https://anaykr15hn4.github.io/mypage/)
+Check out my website 👉 [Personal Site](https://anaykr15hn4.github.io/mypage/)
