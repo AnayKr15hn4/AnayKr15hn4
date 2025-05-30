@@ -10,7 +10,7 @@ I'm a high schooler and aspiring **aerodynamic engineer**, currently exploring *
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,java,)](https://skillicons.dev)
 
-Check out my [website](https://anaykr15hn4.github.io/mypage/)
+Check out my [website](https://anaykr15hn4.github.io/Mypage/)
 
 
 
