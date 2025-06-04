@@ -1,20 +1,21 @@
 # Hi, I'm Anay Krishna
 
-I'm a high schooler and aspiring **aerodynamic engineer**, currently exploring **automobile simulations** and **web app development**.
+I'm a high schooler and aspiring aerodynamic engineer exploring automobile simulations, engineering, and web app development.
 
-- 🔭 Currently working on
--   **Vividsence** - a tech organisation that makes products for the disabled.
--   **Capture** - a photography and photo editing company baced in New Jersey.
--   **OptiCircuit** – an AI-based simulation driving tool designed to enhance driving skills and racing lines.
+- **Currently working on**:  
+  **Vividsence** – A tech organization creating assistive products for the disabled  
+  **Capture** – A photography and photo editing company based in New Jersey  
+  **OptiCircuit** – An AI-powered driving simulation tool for optimizing racing lines
 
-- 🧠 Interested in: Cars, Computers, Aerodynamics.
-- 🤝 Open to: Collaborations, internships, hackathons.
+- **Interested in**: Cars, Computers, and Aerodynamics  
+- **Open to**: Collaborations, internships, and hackathons
 
-## 🛠️My Tools
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,java,)](https://skillicons.dev)
+## My Tools
 
-Check out my [website](https://anaykr15hn4.github.io/Mypage/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,java)](https://skillicons.dev)
 
+---
 
-
+Find more about me on my [website](https://anaykr15hn4.github.io/Mypage/)
