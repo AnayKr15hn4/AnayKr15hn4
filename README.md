@@ -8,7 +8,7 @@ I'm a high schooler and aspiring aerodynamic engineer exploring automobile simul
   **OptiCircuit** – An AI-powered driving simulation tool for optimizing racing lines
 
 - **Interested in**: Cars, Racing/Sim Racing, Computers, and Aerodynamics  
-- **Open to**: Collaborations, internships, and hackathons
+- **Open to**: Collaborations, internships, sponsorships, and hackathons
 
 ---
 
