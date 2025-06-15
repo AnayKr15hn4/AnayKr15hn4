@@ -14,7 +14,7 @@ I'm a high schooler and aspiring aerodynamic engineer exploring automobile simul
 
 ## My Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,java,bootstrap)](https://skillicons.dev)
 
 ---
 
