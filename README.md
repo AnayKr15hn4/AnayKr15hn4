@@ -4,7 +4,7 @@ I'm a high schooler and aspiring aerodynamic engineer exploring automobile setup
 
 - **Currently working on**:  
   **Vividsence** – A tech organization creating assistive products for the disabled (working on medical branch & Raspberry Pi integration)  
-  **Capture** – A photography and photo editing company based in New Jersey(opens in summer) 
+  **Capture** – A photography and photo editing company based in New Jersey(opens in summer).   
   **OptiCircuit** – An AI-powered driving simulation tool for optimizing racing lines
 
 - **Interested in**: Cars, Racing/Sim Racing, Computers, Robotics, Coding, and Aerodynamics  
