@@ -14,8 +14,7 @@ I'm a high schooler and aspiring aerodynamic engineer exploring automobile setup
 
 ## My Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,java,python,arduino,)](https://skillicons.dev)
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/640px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" width="40" style="margin-left:10px;vertical-align:middle;" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,java,python,c,cpp,cs,nodejs,react,flutter,arduino,)](https://skillicons.dev)
 
 ---
 
