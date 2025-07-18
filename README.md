@@ -9,7 +9,7 @@ I'm a high schooler and aspiring aerodynamic engineer exploring automobile setup
   **Effectify** – A UI marketplace where I can show and share my code  
 
 - **Interested in**: Cars, Racing/Sim Racing, Computers, Robotics, Coding, and Aerodynamics  
-- **Open to**: Collaborations, internships, sponsorships, and hackathons
+- **Open to**: Collaborations, internships, sponsorships, and hackathons 
 
 ---
 
