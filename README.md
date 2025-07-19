@@ -6,7 +6,7 @@ I'm a high schooler and aspiring aerodynamic engineer exploring automobile setup
   **Vividsence** – A tech organization creating assistive products for the disabled (working on medical branch & Raspberry Pi integration)  
   **Capture** – A photography and photo editing company based in New Jersey(opens in october)  
   **OptiCircuit** – An AI-powered driving simulation tool for optimizing racing lines  
-  **Effectify** – A UI marketplace comprised of high quality community made effects  
+  **Effectify** – A UI marketplace comprised of high quality community made Ui effects  
 
 - **Interested in**: Cars, Racing/Sim Racing, Computers, Robotics, Coding, and Aerodynamics  
 - **Open to**: Collaborations, internships, sponsorships, and hackathons 
