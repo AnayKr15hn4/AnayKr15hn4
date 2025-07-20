@@ -9,7 +9,7 @@ I'm a high schooler and aspiring aerodynamic engineer exploring automobile setup
   **Effectify** – A UI marketplace comprised of high quality community made Ui effects  
 
 - **Interested in**: Cars, Racing/Sim Racing, Computers, Robotics, Coding, and Aerodynamics  
-- **Open to**: Collaborations, internships, sponsorships, and hackathons 
+- **Open to**: Website projects for clients, collaborations, internships, sponsorships, and hackathons.
 
 ---
 
